@@ -53,10 +53,10 @@ Total: 20 Stunden
 
 | TC-№ | Datum      | Resultat                | Tester |
 | ---- | ---------- | ----------------------- | ------ |
-| 1.1  | 22/05/2024 | Erfolgreich, aber `userId` fehlt | Kamil  |
-| 2.1  | 22/05/2024 | Erfolgreich             | Kamil  |
-| 3.1  | 29/05/2024 | Erfolgreich             | Kamil  |
-| 4.1  | 05/06/2024 | Fehlgeschlagen          | Kamil  |
+| 1.1  | 12/06/2024 | Erfolgreich, aber `userId` fehlt | Kamil  |
+| 2.1  | 12/06/2024 | Erfolgreich             | Kamil  |
+| 3.1  | 12/06/2024 | Erfolgreich             | Kamil  |
+| 4.1  | 12/06/2024 | Fehlgeschlagen          | Kamil  |
 | 5.1  | 12/06/2024 | Erfolgreich             | Kamil  |
 
 Fazit: Die meisten Testfälle wurden erfolgreich durchgeführt. Ein Problem wurde festgestellt, bei dem während der Registrierung kein `userId` zugefügt wurde, was dazu führte, dass die Check-In-Funktionalität teilweise nicht funktionierte. 
